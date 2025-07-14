@@ -1,5 +1,5 @@
 import java.io.PrintWriter;
-
+// Refactoring  RedirectServlet
 public class RdServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
